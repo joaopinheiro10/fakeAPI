@@ -1,0 +1,45 @@
+{
+	"profile": [
+		{
+		 "id": 1,
+		 "firstname": "Joao",
+		 "lastname": "Pinheiro",
+		 "username": "pinhas",
+		 "email": "pinhas@pinhas.pt",
+		 "password": "neco"
+		},
+		{
+                 "id": 2,
+                 "firstname": "Neco",
+                 "lastname": "Santos",
+                 "username": "neco",
+                 "email": "neco@neco.pt",
+                 "password": "neco"
+                },
+		{
+                 "id": 3,
+                 "firstname": "Dudu",
+                 "lastname": "Marques",
+                 "username": "dudu",
+                 "email": "dudu@dudu.pt",
+                 "password": "neco"
+                },
+		{
+                 "id": 4,
+                 "firstname": "JP",
+                 "lastname": "Pedro",
+                 "username": "jp",
+                 "email": "jp@jp.pt",
+                 "password": "neco"
+                },
+		{
+                 "id": 5,
+                 "firstname": "tiago",
+                 "lastname": "Patricio",
+                 "username": "prei",
+                 "email": "presi@presi.pt",
+                 "password": "neco"
+                }
+		]
+}
+		 
